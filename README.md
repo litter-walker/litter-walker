@@ -2,7 +2,7 @@
 - ✍️ [my blog](https://blog.zhang0.cool)
 - ❤️java
 
-![贪吃蛇](https://cdn.jsdelivr.net/gh/litter-walker/litter-walker/main/assets/github-contribution-grid-snake.svg)
+![贪吃蛇](https://cdn.jsdelivr.net/gh/litter-walker/litter-walker@master/assets/github-contribution-grid-snake.svg)
 <!--
 **litter-walker/litter-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
