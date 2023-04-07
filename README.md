@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✍️ [my blog](https://blog.zhang0.cool)
+- ✍️ [my blog](https://litter-walker.github.io)
 - ❤️java
 
 ![贪吃蛇](https://cdn.jsdelivr.net/gh/litter-walker/litter-walker@master/assets/github-contribution-grid-snake.svg)
